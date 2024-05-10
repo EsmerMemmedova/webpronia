@@ -86,3 +86,4 @@ C:\Users\2022\Desktop\Pronia\ProniaWeb\bin\Debug\net6.0\runtimes\browser\lib\net
 C:\Users\2022\Desktop\Pronia\ProniaWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\2022\Desktop\Pronia\ProniaWeb\obj\Debug\net6.0\ProniaWeb.csproj.AssemblyReference.cache
 C:\Users\2022\Desktop\Pronia\ProniaWeb\obj\Debug\net6.0\ProniaWeb.csproj.Up2Date
+C:\Users\2022\Desktop\Pronia\ProniaWeb\obj\Debug\net6.0\ProniaWeb.sourcelink.json
